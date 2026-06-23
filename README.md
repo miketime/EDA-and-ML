@@ -57,7 +57,6 @@ Python · pandas · NumPy · scikit-learn · XGBoost · SciPy · matplotlib · s
 ## Usage
 
 ```bash
-pip install -r requirements.txt
 jupyter notebook "EDA_complet (1).ipynb"
 ```
 
