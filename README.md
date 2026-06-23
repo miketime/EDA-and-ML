@@ -65,7 +65,8 @@ Notebook was originally run on Google Colab (`pd.read_csv("/content/...")`) — 
 
 ## Report
 
-Full write-up with methodology, hyperparameter grids, and per-continent metrics: [`EDAProjectReport_DS411.pdf`](./EDAProjectReport_DS411.pdf).
+Full write-up with methodology, hyperparameter grids, and per-continent metrics: [`EDAProjectReport.pdf`](./EDAProjectReport.pdf).
+
 
 
 
