@@ -1,9 +1,6 @@
-# EDA-and-ML
-This is a team project in which we did exploratory data analysis and applied machine learning on the 'Global Data on Sustainable Energy' dataset
-
 # Predicting Patterns in Sustainability and Development
 
-Exploratory Data Analysis & Machine Learning project — Final Project, Master's in Data Science, Faculty of Mathematics and Computer Science, University of Bucharest (Jan 2025). Team project (4 members).
+Exploratory Data Analysis & Machine Learning project — Master's in Data Science, Faculty of Mathematics and Computer Science, University of Bucharest (Jan 2025). Team project (4 members).
 
 Analyzes global energy, emissions, and economic indicators (2000–2020) to uncover patterns in renewable energy adoption, CO2 emissions, and economic development, and to build predictive models on top of them.
 
